@@ -1,13 +1,10 @@
-package br.com.fiap.covid.helpers;
+package br.com.fiap.covid;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class HelpersApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+
 
 }
