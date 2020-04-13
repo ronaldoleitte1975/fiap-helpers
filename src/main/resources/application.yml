@@ -2,9 +2,9 @@ spring:
   application:
     name: helpers-service
   datasource:
-    url: jdbc:postgresql://localhost:5432/helpers
-    username: postgres
-    password: postgres
+    url: postgres://chbwwuawarfvvg:5f57dbbcc4f1f20325861c2cca432caee098f47357319778cdac629f71eef9ce@ec2-3-234-109-123.compute-1.amazonaws.com:5432/d2vkk65nfe09vu
+    username: chbwwuawarfvvg
+    password: 5f57dbbcc4f1f20325861c2cca432caee098f47357319778cdac629f71eef9ce
     driver-class-name: org.postgresql.Driver
     hikari:
       maximum-pool-size: 2
